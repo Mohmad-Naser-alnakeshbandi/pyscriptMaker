@@ -14,7 +14,7 @@ and type:
 
 ## the Result 
 
-<img src="https://raw.githubusercontent.com/Mohmad-Naser-alnakeshbandi/WebEditor/master/result.PNG"
+<img src="https://raw.githubusercontent.com/Mohmad-Naser-alnakeshbandi/pyscriptMaker/master/result.PNG"
 alt="File Stuctur"/>
 
 <br>
